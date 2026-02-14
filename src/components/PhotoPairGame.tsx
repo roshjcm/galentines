@@ -9,7 +9,7 @@ const images = [
   "/game-photos/1.avif",
   "/game-photos/2.avif",
   "/game-photos/test.avif",
-  "/game-photos/4.avif",
+  "/game-photos/test2.avif",
   "/game-photos/5.avif",
   "/game-photos/6.avif",
   "/game-photos/7.avif",
